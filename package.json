@@ -1,0 +1,23 @@
+{
+  "name": "electron-redux-setup",
+  "version": "1.0.0",
+  "description": "electronRedux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "tulio",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "electron": "^2.0.5",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.16.2"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
